@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Hola mon!</string>
+    <string name="author_name">Sergi Cervera</string>
+    <string name="second_name">Santi Gatius</string>
+    <string name="Boto1">Navegar 2ª pantalla</string>
+    <string name="msg1">Missatge de despedida</string>
+    <string name="msg2">Número de repeticions</string>
+    <string name="boto2">Tornar enrere</string>
+</resources>

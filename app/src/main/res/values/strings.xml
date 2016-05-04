@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">MiniActv-3</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="author_name">Sergi Cervera</string>
+    <string name="second_name">Santi Gatius</string>
+    <string name="Boto1">Browse 2nd screen</string>
+    <string name="msg1">Farewell message</string>
+    <string name="msg2">Number of repetitions</string>
+    <string name="boto2">Go Back</string>
+</resources>
